@@ -84,6 +84,18 @@ This repository serves as:
 
 ---
 
+## Learning Approach
+
+This repository is built by learning concepts through a variety of trusted resources, including documentation, books, articles, videos, datasets, and coding platforms.
+
+I believe no single platform can teach everything. My focus is to understand concepts, solve problems, document my learnings in my own words, and build a long-term knowledge library.
+
+The platforms and resources I use may evolve over time, but the learning philosophy remains the same.
+
+> Learn first. Document second. Publish third. Repeat forever.
+
+---
+
 ## Disclaimer
 
 This repository represents my own understanding at different stages of my learning journey. As I gain more experience, explanations, solutions, and notes may be updated or improved.
